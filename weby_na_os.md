@@ -7,5 +7,6 @@ https://debian.org
 https://ubuntu.com  
 https://fedoraproject.org  
 https://redhat.com  
-https://endeavouros.os
+https://endeavouros.os  
+
 
